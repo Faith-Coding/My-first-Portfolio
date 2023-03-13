@@ -108,3 +108,29 @@ html{
 .btn-primary{
     background: var(--primary-color) ! important;
 }
+ @media (max-width: 600px) {
+            
+            h1{
+            font-size: 26px;
+            text-align: center;
+            }
+            h1{
+            font-size: 23px;
+            text-align: center;
+            }
+            h1{
+            font-size: 23px;
+            text-align: center;
+            }
+             p{
+            font-size: 18px;
+            text-align: center;
+        }
+         .btn-primary{
+            font-size: 23px;
+            display: block;
+            padding: 10px;
+            margin: 10px;
+        }
+       
+        }
