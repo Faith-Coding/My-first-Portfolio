@@ -108,18 +108,18 @@ html{
 .btn-primary{
     background: var(--primary-color) ! important;
 }
- @media (min-width: 600px) {
+ @media (min-width: 576px) {
             
             h1{
-            font-size: 26px;
+            font-size: 40px;
             text-align: center;
             }
             h1{
-            font-size: 23px;
+            font-size: 40px;
             text-align: center;
             }
             h1{
-            font-size: 23px;
+            font-size: 40px;
             text-align: center;
             }
              p{
@@ -136,3 +136,4 @@ html{
 
        
         }
+
